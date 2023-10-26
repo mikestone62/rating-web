@@ -24,7 +24,7 @@ body {
   //background-color: #0071c5;
   //background-color: #ffff9f;
   //background-color: #ffff99;
-  background-colour: #444c38;
+  background-color: #444c38;
   line-height: 1;
 }
 
