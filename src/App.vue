@@ -20,10 +20,11 @@ export default {
 // main css
 body {
   //background-color: #999;
-  //background-colour: rgba(255,255,255,0.5);
+  //background-color: rgba(255,255,255,0.5);
   //background-color: #0071c5;
-  //background-color: ffff9f;
-  background-color: ffff99;
+  //background-color: #ffff9f;
+  //background-color: #ffff99;
+  background-colour: #444c38;
   line-height: 1;
 }
 
